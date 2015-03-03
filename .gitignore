@@ -169,7 +169,7 @@ ftpsync.settings
 deployment-config.json
 
 
-### Languages & libraries
+### Languages & Tools
 
 ## Python
 
@@ -195,6 +195,9 @@ pip-log.txt
 #Mr Developer
 .mr.developer.cfg
 
+## SSL
+
+*.key
 
 ## Gulp/Grunt
 
