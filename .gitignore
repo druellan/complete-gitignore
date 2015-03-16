@@ -208,6 +208,9 @@ node_modules
 .tags
 .tags_sorted_by_file
 
+## Bower
+
+bower_components
 
 ### CMSs & Frameworks
 
