@@ -173,6 +173,10 @@ deployment-config.json
 
 .brackets.json
 
+## Visual Studio Code
+
+.settings/
+
 ### Languages & Tools
 
 ## Python
