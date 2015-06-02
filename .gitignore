@@ -220,6 +220,10 @@ node_modules
 
 bower_components
 
+## Browser-Sync
+
+bs-config.js
+
 ### CMSs & Frameworks
 
 ## Drupal
