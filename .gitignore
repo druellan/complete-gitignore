@@ -222,5 +222,8 @@ sites/*/private
 ## Wordpress
 wp-config.php
 
-# Doctrine cache
-*.doctrinecache.data
+# Grav Caches
+cache/compiled/
+cache/doctrine/
+cache/gpm/
+cache/twig/
