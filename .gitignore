@@ -1,25 +1,21 @@
 ### OS & work environments
 
 ## Windows detritus
-
 Thumbs.db
 ehthumbs.db
 Desktop.ini
 $RECYCLE.BIN/
 
 ## Mac crap
-
 .DS_Store
 
 ## Linux things
-
 .trash
 
 
 ### IDEs and Editors
 
 ## Eclipse
-
 *.pydevproject
 .project
 .metadata
@@ -43,7 +39,6 @@ local.properties
 .buildpath
 
 ## Visual Studio
-
 # User-specific files
 *.suo
 *.user
@@ -152,12 +147,10 @@ App_Data/*.mdf
 App_Data/*.ldf
 
 ## Espresso Web Editor
-
 *.esproj
 *.espressostorage
 
 ## Sublime Text
-
 *.sublime-workspace
 *.sublime-project
 #sftp/ftp plugin scary things!
@@ -165,22 +158,19 @@ sftp-config.json
 ftpsync.settings
 
 ## Atom.io
-
 deployment-config.json
 .remote-sync.json
 
 ## Brackets Editor
-
 .brackets.json
 
 ## Visual Studio Code
-
 .settings/
+
 
 ### Languages & Tools
 
 ## Python
-
 *.py[co]
 # Packages
 *.egg
@@ -204,30 +194,25 @@ pip-log.txt
 .mr.developer.cfg
 
 ## SSL
-
 *.key
 
 ## Gulp/Grunt
-
 node_modules
 
 ## cTags
-
 .tags
 .tags_sorted_by_file
 
 ## Bower
-
 bower_components
 
 ## Browser-Sync
-
 bs-config.js
+
 
 ### CMSs & Frameworks
 
 ## Drupal
-
 # Ignore configuration files that may contain sensitive information.
 sites/*/settings*.php
 # Ignore paths that contain user-generated content.
@@ -235,5 +220,7 @@ sites/*/files
 sites/*/private
 
 ## Wordpress
-
 wp-config.php
+
+# Doctrine cache
+*.doctrinecache.data
