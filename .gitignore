@@ -196,6 +196,9 @@ pip-log.txt
 ## SSL
 *.key
 
+## NodeJS
+npm-debug-log
+
 ## Gulp/Grunt
 node_modules
 
