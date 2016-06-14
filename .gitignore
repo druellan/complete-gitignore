@@ -224,6 +224,8 @@ sites/*/private
 
 ## Wordpress
 wp-config.php
+wp-content/uploads
+wp-content/upgrade
 
 # Grav Caches
 cache/compiled/
