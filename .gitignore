@@ -166,7 +166,10 @@ deployment-config.json
 
 ## Visual Studio Code
 .settings/
+.vscode/
 
+## Netbeans
+.netbeans.xml
 
 ### Languages & Tools
 
